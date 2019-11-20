@@ -2,3 +2,4 @@ sceneSetups:
 - path: Assets/Viuletti City low poly/DemoScene/SampleScene.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
