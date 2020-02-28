@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/Cone/Mittel/HallScene_Kranf\xFChrer_Mittel_lvl1_Cone.unity"
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.newunityproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\7baur.INFORMATIK.000\\Desktop\\HallScene_26.01.20_22.30h\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "New Unity Project [Testing]"
+        }
+      }
+    }
+  ]
+}
